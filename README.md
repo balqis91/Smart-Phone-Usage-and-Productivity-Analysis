@@ -3,9 +3,8 @@ This project analyses how smartphone usage behaviour impacts work productivity. 
 # Smartphone Usage & Productivity Analysis
 
 ## Project Overview
-
 This project investigates how smartphone usage behaviour influences work productivity. The analysis was carried out using Python, focusing on understanding the dataset, exploring patterns, and building a simple predictive model. The dataset was imported into a pandas DataFrame, which served as the primary structure for data manipulation and analysis. Essential libraries such as Pandas (for data handling), Matplotlib and Seaborn (for visualisation), and Scikit-learn (for predictive modelling) were also imported.
----
+
 
 ## Dataset
 
