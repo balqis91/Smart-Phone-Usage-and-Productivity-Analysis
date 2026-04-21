@@ -116,7 +116,7 @@ Box plots were then used to compare productivity, stress, and sleep across these
 
 *The image below shows productivity across usage levels:*
 <img width="667" height="292" alt="image" src="https://github.com/user-attachments/assets/1abd5697-691a-4b3a-a548-f7600963fbc2" />
-)
+
 <img width="932" height="576" alt="image" src="https://github.com/user-attachments/assets/c6bfdc22-05c1-47b1-95ab-c24fa1fe7aea" />
 <img width="697" height="715" alt="image" src="https://github.com/user-attachments/assets/485d71de-242f-41ba-9bc2-7f335bea7ae5" />
 <img width="885" height="677" alt="image" src="https://github.com/user-attachments/assets/eee87c2a-e8f7-47c9-8893-d79a499cf6a3" />
